@@ -4,7 +4,7 @@
 Cryptography
 
 ## Difficulty
-Hard
+Medium
 
 ## Author
 ❄️ Lumine
