@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="Public/logocktcg.png" alt="KTCG Logo" width="140">
+&nbsp;&nbsp;&nbsp;
+<img src="Public/hackpointlogo.png" alt="HackPoint Logo" width="140">
+
+<br><br>
+
 ![CTF Banner](https://img.shields.io/badge/CTF-Beginner%202026-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Finished-success?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Category-Cybersecurity-blue?style=for-the-badge)
@@ -56,4 +62,49 @@ Repository ini berisi arsip soal, file challenge, dan beberapa resource pendukun
 ├── reverse/
 ├── pwn/
 ├── misc/
+├── Public/
 └── README.md
+```
+
+---
+
+# 🤝 Community
+
+<div align="center">
+
+### KTCG Community
+[![Discord](https://img.shields.io/badge/Discord-KTCG%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Q5dVVBs6xX)
+
+### HackPoint
+[![Discord](https://img.shields.io/badge/Discord-HackPoint-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fF6zXh4zrp)
+
+</div>
+
+---
+
+# ⚠️ Disclaimer
+
+Seluruh challenge dalam repository ini dibuat hanya untuk tujuan edukasi dan pembelajaran.
+
+Dilarang menggunakan teknik yang dipelajari untuk aktivitas ilegal atau merugikan pihak lain.
+
+---
+
+# ❤️ Credits
+
+Special thanks to:
+
+- KTCG Community
+- HackPoint
+- Semua author challenge
+- Semua peserta yang ikut meramaikan event
+
+---
+
+<div align="center">
+
+### ⭐ Terima kasih telah mengikuti Beginner CTF 2026!
+
+_"Learn. Hack. Share."_
+
+</div>
