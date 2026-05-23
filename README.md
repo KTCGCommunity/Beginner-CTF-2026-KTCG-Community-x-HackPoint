@@ -31,7 +31,7 @@ Event ini menghadirkan berbagai kategori challenge mulai dari:
 - Cryptography
 - Reverse Engineering
 - Forensics
-- Binary Exploitation
+- PWN
 - OSINT
 - Miscellaneous
 
@@ -56,13 +56,16 @@ Repository ini berisi arsip soal, file challenge, dan beberapa resource pendukun
 
 ```bash
 .
-├── web/
-├── crypto/
-├── forensics/
-├── reverse/
-├── pwn/
-├── misc/
+├── BlockChain/
+├── Cryptography/
+├── Forensics/
+├── MISC/
+├── OSINT/
+├── PWN/
 ├── Public/
+├── Reverse Engineering/
+├── Spesial/
+├── Web Exploitation/
 └── README.md
 ```
 
