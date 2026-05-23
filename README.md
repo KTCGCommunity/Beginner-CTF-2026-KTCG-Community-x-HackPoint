@@ -21,6 +21,7 @@ Diselenggarakan oleh **KTCG Community** berkolaborasi dengan **HackPoint**
 Event ini menghadirkan berbagai kategori challenge mulai dari:
 
 - Web Exploitation
+- BlockChain
 - Cryptography
 - Reverse Engineering
 - Forensics
